@@ -1,0 +1,41 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color:#222222 ;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #14264d;
+}
+h2{
+    font-size: 1.4em;
+    font-weight: normal;
+    text-decoration: underline;
+    color: #a50044;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.6;
+    text-indent: 30px;
+}
+.surret{
+    text-indent: 0%;
+}
+.surret img{
+    width: 40px;
+}
+.MU{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0%;
+    font-style: italic;
+}
+.a{
+    color: #1c4ccc;
+    text-decoration: none;
+    font-weight: bold;
+}
